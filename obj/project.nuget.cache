@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KwcxhudssU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valtr\\CodeStack\\blogapi\\blogapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valtr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\valtr\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
