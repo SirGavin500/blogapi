@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valtr\\CodeStack\\blogapi\\blogapi.csproj": {}
+    "C:\\Users\\valtr\\CodeStack\\blogapiLecture\\blogapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valtr\\CodeStack\\blogapi\\blogapi.csproj": {
+    "C:\\Users\\valtr\\CodeStack\\blogapiLecture\\blogapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valtr\\CodeStack\\blogapi\\blogapi.csproj",
+        "projectUniqueName": "C:\\Users\\valtr\\CodeStack\\blogapiLecture\\blogapi.csproj",
         "projectName": "blogapi",
-        "projectPath": "C:\\Users\\valtr\\CodeStack\\blogapi\\blogapi.csproj",
+        "projectPath": "C:\\Users\\valtr\\CodeStack\\blogapiLecture\\blogapi.csproj",
         "packagesPath": "C:\\Users\\valtr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valtr\\CodeStack\\blogapi\\obj\\",
+        "outputPath": "C:\\Users\\valtr\\CodeStack\\blogapiLecture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valtr\\AppData\\Roaming\\NuGet\\NuGet.Config"
