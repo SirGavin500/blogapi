@@ -4,14 +4,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using blogapi.Services.Context;
+using blogapiLecture.Services.Context;
 
 #nullable disable
 
 namespace blogapi.Migrations
 {
-    [DbContext(typeof(Context))]
-    [Migration("20260302184931_init")]
+    [DbContext(typeof(DataContext))]
+    [Migration("20260303174611_init")]
     partial class init
     {
         /// <inheritdoc />

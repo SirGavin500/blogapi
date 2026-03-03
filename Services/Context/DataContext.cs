@@ -5,15 +5,14 @@ using System.Threading.Tasks;
 using blogapi.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace blogapi.Services.Context;
+namespace blogapiLecture.Services.Context;
 
-    public class Context : DbContext
+    public class DataContext : DbContext
     {
-       public Context(DbContextOptions options) : base(options)
+        public DataContext(DbContextOptions options) : base(options)
         {
             
-        } 
+        }
         public DbSet<UserModel> UserInfo { get; set; }
-
         public DbSet<BlogItemModel> BlogInfo { get; set; }
     }
