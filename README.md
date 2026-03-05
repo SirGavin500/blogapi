@@ -107,13 +107,15 @@ string Tags
 bool IsPublished
 bool Is Deleted
 
-### LoginModel
+### LoginModel DTO
 
 string Username
 string Password
 
-### PasswordModel
+### CreateAccountModel DTO
 
+### PasswordModel DTO
+ 
 string salt
 
 string Hash
