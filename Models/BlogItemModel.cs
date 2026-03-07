@@ -16,8 +16,8 @@ namespace blogapi.Models;
         public string? Date { get; set; }
         public string? Category { get; set; }
         public string? Tags { get; set; }
-        bool IsPublished { get; set; }
-        bool IsDeleted { get; set; }
+       public bool IsPublished { get; set; }
+       public  bool IsDeleted { get; set; }
 
 
     }
